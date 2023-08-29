@@ -1,0 +1,149 @@
+Date : 2023-01-19 17:43:22
+Directory : c:\Users\Darwi\Documents\GitHub\HairAndMore
+Total : 79 files,  7256 codes, 261 comments, 489 blanks, all 8006 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| Dart            |         53 |      6,722 |        129 |        414 |      7,265 |
+| JSON            |          6 |        227 |          0 |          5 |        232 |
+| XML             |          9 |        124 |         48 |         12 |        184 |
+| Groovy          |          3 |         97 |          5 |         24 |        126 |
+| YAML            |          2 |         52 |         78 |         20 |        150 |
+| Markdown        |          2 |         13 |          0 |          9 |         22 |
+| Swift           |          1 |         12 |          0 |          2 |         14 |
+| Java Properties |          2 |          8 |          1 |          2 |         11 |
+| C++             |          1 |          1 |          0 |          1 |          2 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         79 |      7,256 |        261 |        489 |      8,006 |
+| . (Files)                                                                                                 |          5 |         75 |         78 |         30 |        183 |
+| android                                                                                                   |         13 |        230 |         52 |         36 |        318 |
+| android (Files)                                                                                           |          3 |         40 |          0 |         11 |         51 |
+| android\app                                                                                               |          9 |        185 |         51 |         24 |        260 |
+| android\app (Files)                                                                                       |          2 |        122 |          5 |         14 |        141 |
+| android\app\src                                                                                           |          7 |         63 |         46 |         10 |        119 |
+| android\app\src\debug                                                                                     |          1 |          4 |          4 |          1 |          9 |
+| android\app\src\main                                                                                      |          5 |         55 |         38 |          8 |        101 |
+| android\app\src\main (Files)                                                                              |          1 |         29 |          6 |          2 |         37 |
+| android\app\src\main\res                                                                                  |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                                         |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                                     |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                                           |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                                     |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                   |          1 |          4 |          4 |          1 |          9 |
+| android\gradle                                                                                            |          1 |          5 |          1 |          1 |          7 |
+| android\gradle\wrapper                                                                                    |          1 |          5 |          1 |          1 |          7 |
+| ios                                                                                                       |          8 |        229 |          2 |          9 |        240 |
+| ios (Files)                                                                                               |          1 |          7 |          0 |          0 |          7 |
+| ios\Runner                                                                                                |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                                        |          2 |         13 |          0 |          3 |         16 |
+| ios\Runner\Assets.xcassets                                                                                |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                             |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                           |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                     |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                       |         53 |      6,722 |        129 |        414 |      7,265 |
+| lib (Files)                                                                                               |          3 |        152 |         14 |         13 |        179 |
+| lib\Views                                                                                                 |         20 |      3,730 |         30 |        132 |      3,892 |
+| lib\Views\Authentication                                                                                  |          4 |        647 |          5 |         39 |        691 |
+| lib\Views\Authentication (Files)                                                                          |          3 |        555 |          0 |         28 |        583 |
+| lib\Views\Authentication\barberAuthPages                                                                  |          1 |         92 |          5 |         11 |        108 |
+| lib\Views\barberPages                                                                                     |          7 |      1,578 |         14 |         48 |      1,640 |
+| lib\Views\booking                                                                                         |          1 |        302 |          0 |          5 |        307 |
+| lib\Views\userPages                                                                                       |          8 |      1,203 |         11 |         40 |      1,254 |
+| lib\controllers                                                                                           |          8 |      1,593 |          2 |        126 |      1,721 |
+| lib\models                                                                                                |          8 |        412 |          2 |         47 |        461 |
+| lib\utils                                                                                                 |         10 |        620 |         78 |         75 |        773 |
+| lib\widgets                                                                                               |          4 |        215 |          3 |         21 |        239 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                                  | language        | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\README.md                                                     | Markdown        |         10 |          0 |          7 |         17 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\analysis_options.yaml                                         | YAML            |          3 |         23 |          4 |         30 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\build.gradle                                      | Groovy          |         60 |          5 |         14 |         79 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\google-services.json                              | JSON            |         62 |          0 |          0 |         62 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\debug\AndroidManifest.xml                     | XML             |          4 |          4 |          1 |          9 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\main\AndroidManifest.xml                      | XML             |         29 |          6 |          2 |         37 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\main\res\drawable-v21\launch_background.xml   | XML             |          4 |          7 |          2 |         13 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\main\res\drawable\launch_background.xml       | XML             |          4 |          7 |          2 |         13 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\main\res\values-night\styles.xml              | XML             |          9 |          9 |          1 |         19 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\main\res\values\styles.xml                    | XML             |          9 |          9 |          1 |         19 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\app\src\profile\AndroidManifest.xml                   | XML             |          4 |          4 |          1 |          9 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\build.gradle                                          | Groovy          |         29 |          0 |          6 |         35 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\gradle.properties                                     | Java Properties |          3 |          0 |          1 |          4 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\gradle\wrapper\gradle-wrapper.properties              | Java Properties |          5 |          1 |          1 |          7 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\android\settings.gradle                                       | Groovy          |          8 |          0 |          4 |         12 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\firebase.json                                                 | JSON            |          9 |          0 |          2 |         11 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\firestore.indexes.json                                        | JSON            |          4 |          0 |          1 |          5 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\AppDelegate.swift                                  | Swift           |         12 |          0 |          2 |         14 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON            |        122 |          0 |          1 |        123 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON            |         23 |          0 |          1 |         24 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown        |          3 |          0 |          2 |          5 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML             |         36 |          1 |          1 |         38 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Base.lproj\Main.storyboard                         | XML             |         25 |          1 |          1 |         27 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\Runner\Runner-Bridging-Header.h                           | C++             |          1 |          0 |          1 |          2 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\ios\firebase_app_id_file.json                                 | JSON            |          7 |          0 |          0 |          7 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\Authentication\barberAuthPages\pickPdfFilePage.dart | Dart            |         92 |          5 |         11 |        108 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\Authentication\reset_password_page.dart             | Dart            |        113 |          0 |          5 |        118 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\Authentication\sign_in_page.dart                    | Dart            |        181 |          0 |         10 |        191 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\Authentication\sign_up_page.dart                    | Dart            |        261 |          0 |         13 |        274 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\BarberSideMenu.dart                     | Dart            |         78 |          0 |          8 |         86 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\addOfferPage.dart                       | Dart            |         80 |          3 |          5 |         88 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\addProductPage.dart                     | Dart            |        191 |          3 |          7 |        201 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\addServicePage.dart                     | Dart            |        114 |          0 |          5 |        119 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\barberHomePage.dart                     | Dart            |        281 |          6 |          6 |        293 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\barberProfilePage.dart                  | Dart            |        371 |          1 |         12 |        384 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\barberPages\profileSettings.dart                    | Dart            |        463 |          1 |          5 |        469 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\booking\TimeSlotsPage.dart                          | Dart            |        302 |          0 |          5 |        307 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\Appointments.dart                         | Dart            |        122 |          0 |          3 |        125 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\barberProfile.dart                        | Dart            |        435 |          1 |          5 |        441 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\barbersCard.dart                          | Dart            |         69 |          0 |          7 |         76 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\barbersPage.dart                          | Dart            |         49 |          0 |          5 |         54 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\drawer.dart                               | Dart            |         82 |          1 |          8 |         91 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\homePage.dart                             | Dart            |        229 |          2 |          6 |        237 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\topBarberCard.dart                        | Dart            |         59 |          0 |          2 |         61 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\Views\userPages\userProfilPage.dart                       | Dart            |        158 |          7 |          4 |        169 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\appointmentProv.dart                          | Dart            |        186 |          0 |         20 |        206 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\authProv.dart                                 | Dart            |        189 |          0 |         14 |        203 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\barberProfileDataProv.dart                    | Dart            |         92 |          0 |         11 |        103 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\barberProfileProv.dart                        | Dart            |        214 |          0 |         12 |        226 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\bookingProv.dart                              | Dart            |        160 |          0 |         19 |        179 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\homePageProv.dart                             | Dart            |         63 |          0 |          7 |         70 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\profileSettingsProv.dart                      | Dart            |        522 |          2 |         30 |        554 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\controllers\userProfileProv.dart                          | Dart            |        167 |          0 |         13 |        180 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\firebase_options.dart                                     | Dart            |         55 |         12 |          4 |         71 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\main.dart                                                 | Dart            |         35 |          0 |          3 |         38 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\appointment.dart                                   | Dart            |         56 |          0 |          5 |         61 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\barber.dart                                        | Dart            |         77 |          0 |          6 |         83 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\offer.dart                                         | Dart            |         17 |          0 |          4 |         21 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\product.dart                                       | Dart            |         27 |          0 |          4 |         31 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\service.dart                                       | Dart            |         20 |          1 |          6 |         27 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\slot.dart                                          | Dart            |        125 |          1 |         10 |        136 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\user.dart                                          | Dart            |         44 |          0 |          6 |         50 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\models\userAppointment.dart                               | Dart            |         46 |          0 |          6 |         52 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\splash_screen.dart                                        | Dart            |         62 |          2 |          6 |         70 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\DateTimeTools.dart                                  | Dart            |         10 |          0 |          2 |         12 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\apiPaths.dart                                       | Dart            |         47 |         20 |          6 |         73 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\auth.dart                                           | Dart            |        227 |         51 |         25 |        303 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\colorsApp.dart                                      | Dart            |         20 |          0 |          2 |         22 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\extention.dart                                      | Dart            |         85 |          3 |         10 |         98 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\pushNotification.dart                               | Dart            |         33 |          0 |          1 |         34 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\restService.dart                                    | Dart            |         72 |          4 |          9 |         85 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\textStyle.dart                                      | Dart            |         18 |          0 |          3 |         21 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\timeSlots.dart                                      | Dart            |         81 |          0 |          7 |         88 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\utils\user_preferences.dart                               | Dart            |         27 |          0 |         10 |         37 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\widgets\appButton.dart                                    | Dart            |         37 |          0 |          7 |         44 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\widgets\appText.dart                                      | Dart            |         27 |          0 |          4 |         31 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\widgets\formTextField.dart                                | Dart            |        106 |          3 |          7 |        116 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\lib\widgets\submitDialog.dart                                 | Dart            |         45 |          0 |          3 |         48 |
+| c:\Users\Darwi\Documents\GitHub\HairAndMore\pubspec.yaml                                                  | YAML            |         49 |         55 |         16 |        120 |
+| Total                                                                                                     |                 |      7,256 |        261 |        489 |      8,006 |
++-----------------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
